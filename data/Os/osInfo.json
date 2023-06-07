@@ -1,0 +1,14 @@
+{
+    "platform": "win32",
+    "distro": "Microsoft Windows 10 Pro",
+    "release": "10.0.18362",
+    "codename": "",
+    "kernel": "10.0.18362",
+    "arch": "x64",
+    "hostname": "DESKTOP-H121CR8",
+    "codepage": " 437",
+    "logofile": "windows",
+    "serial": "00330-80000-00000-AA356",
+    "build": "18362",
+    "servicepack": "0.0"
+}

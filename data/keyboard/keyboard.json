@@ -1,0 +1,9 @@
+{
+    "Description":"spacedesk Keyboard",
+    "Name": "Enhanced (101- or 102-key)",
+    "Layout": "00000409",
+    "PNP Device ID": "ROOT/SPACEDESK_KEYBOARD/0000",
+    "Number of Function Keys": "12",
+    "I/O Port": "0x00000064-0x00000064",
+    "IRQ Channe": "IRQ 1"
+}

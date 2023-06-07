@@ -1,0 +1,14 @@
+{
+    "hasbattery": true,
+    "cyclecount": 0,
+    "ischarging": false,
+    "maxcapacity": 0,
+    "currentcapacity": 0,
+    "percent": 48,
+    "timeremaining": -1,
+    "acconnected": true,
+    "type": "DC",
+    "model": "Lenovo Idea Pad 320",
+    "manufacturer": "Lenovo",
+    "serial": "2152145896531458"
+}

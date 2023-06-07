@@ -1,0 +1,82 @@
+[
+    {
+        "ssid": "dlink",
+        "bssid": "6c:19:8f:b9:71:0e",
+        "mode": "",
+        "channel": 1,
+        "frequency": 2412,
+        "signalLevel": -87.5,
+        "quality": 25,
+        "security": [
+            "WPA2-Personal"
+        ],
+        "wpaFlags": [
+            "CCMP"
+        ],
+        "rsnFlags": []
+    },
+    {
+        "ssid": "ADITYA",
+        "bssid": "50:64:2b:4f:41:3c",
+        "mode": "",
+        "channel": 1,
+        "frequency": 2412,
+        "signalLevel": -92.5,
+        "quality": 15,
+        "security": [
+            "WPA2-Personal"
+        ],
+        "wpaFlags": [
+            "CCMP"
+        ],
+        "rsnFlags": []
+    },
+    {
+        "ssid": "ACT102857169962",
+        "bssid": "98:da:c4:1a:4d:b8",
+        "mode": "",
+        "channel": 6,
+        "frequency": 2437,
+        "signalLevel": -87.5,
+        "quality": 25,
+        "security": [
+            "WPA2-Personal"
+        ],
+        "wpaFlags": [
+            "CCMP"
+        ],
+        "rsnFlags": []
+    },
+    {
+        "ssid": "YANADHRUV",
+        "bssid": "60:e3:27:c5:1b:5e",
+        "mode": "",
+        "channel": 1,
+        "frequency": 2412,
+        "signalLevel": -93.5,
+        "quality": 13,
+        "security": [
+            "WPA2-Personal"
+        ],
+        "wpaFlags": [
+            "CCMP"
+        ],
+        "rsnFlags": []
+    },
+    {
+        "ssid": "LAKHE",
+        "bssid": "00:17:7c:5d:0d:8a",
+        "mode": "",
+        "channel": 6,
+        "frequency": 2437,
+        "signalLevel": -50.5,
+        "quality": 99,
+        "security": [
+            "WPA2-Personal"
+        ],
+        "wpaFlags": [
+            "CCMP"
+        ],
+        "rsnFlags": []
+    }
+]

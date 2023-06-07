@@ -1,0 +1,24 @@
+{
+    "controllers": [
+        {
+            "Name": "NVIDIA GeForce 920MX",
+            "PNP Device ID": "PCI/VEN_10DE&DEV_134F&SUBSYS_39C717AA&REV_A2/4&57E39A7&0&00E0",
+            "Adapter Type": "GeForce 920MX, NVIDIA compatible",
+            "Adapter Description": "NVIDIA GeForce 920MX",
+            "Adapter RAM": "(2,147,483,648) bytes",
+            "Driver Version": "23.21.13.8875",
+            "INF File": "oem9.inf (Section208 section)",
+            "Color Planes": "Not Available",
+            "Color Table Entries": "Not Available",
+            "Resolution": "Not Available",
+            "Bits/Pixel": "Not Available",
+            "Memory Address 0": "0x93000000-0x93FFFFFF",
+            "Memory Address 1": "0x80000000-0x91FFFFFF",
+            "Memory Address 2": "0x90000000-0x91FFFFFF",
+            "IRQ Channel IRQ": "4294967287"
+        }
+    ],
+    "displays": [
+        {}
+    ]
+}

@@ -1,0 +1,19 @@
+[{
+    "Drive 1": "C:",
+    "Description": "Local Fixed Disk",
+    "Compressed": "No",
+    "File System": "NTFS",
+    "Size": "222.94 GB (239,379,410,944 bytes)",
+    "Free Space": "83.08 GB (89,205,776,384 bytes)",
+    "Volume Name": "Volume Serial Number EAC70CB2",
+    "Drive 2": "D:",
+    "Description 2": "Local Fixed Disk",
+    "Compressed 2": "No",
+    "File System 2": "NTFS",
+    "Size 2": "663.00 GB (711,889,776,640 bytes)",
+    "Free Space 2": "651.77 GB (699,833,634,816 bytes)",
+    "Volume Name 2": "Program Files",
+    "Volume Serial Number 2": "58188133",
+    "Drive 3": "G:",
+    "Description CD-ROM": "Disc"
+}]

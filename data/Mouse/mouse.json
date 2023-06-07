@@ -1,0 +1,10 @@
+{
+    "Hardware Type": "spacedesk Mouse",
+    "Number of Buttons": "0",
+    "Status": "OK",
+    "PNP Device ID": "ROOT/SPACEDESK_MOUSE/0000",
+    "Power Management Supported": "No",
+    "Double Click Threshold": "Not Available",
+    "Handedness": "Not Available",
+    "Driver": "C:/WINDOWS/SYSTEM32/DRIVERS/SPACEDESKKTMINPUTMOUSE.SYS (, 34.41 KB (35,240 bytes), 12-Oct-18 4:06 PM)"
+}

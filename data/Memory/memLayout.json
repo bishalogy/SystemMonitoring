@@ -1,0 +1,28 @@
+[
+    {
+        "size": 4294967296,
+        "bank": "BANK 0",
+        "type": "Unknown",
+        "clockSpeed": 2133,
+        "formFactor": "SODIMM",
+        "manufacturer": "Samsung",
+        "partNum": "M471A5244CB0-CRC",
+        "serialNum": "00000000",
+        "voltageConfigured": 1.2,
+        "voltageMin": 1.5,
+        "voltageMax": 1.5
+    },
+    {
+        "size": 4294967296,
+        "bank": "BANK 2",
+        "type": "Unknown",
+        "clockSpeed": 2133,
+        "formFactor": "SODIMM",
+        "manufacturer": "0710",
+        "partNum": "TMKS4G56AHFHA-24U",
+        "serialNum": "00001011",
+        "voltageConfigured": 1.2,
+        "voltageMin": 1.5,
+        "voltageMax": 1.5
+    }
+]

@@ -1,0 +1,17 @@
+{
+    "manufacturer": "Intel®",
+    "brand": "Core™ i5-7200U",
+    "vendor": "GenuineIntel",
+    "family": "6",
+    "model": "142",
+    "stepping": "9",
+    "revision": "",
+    "voltage": "250V",
+    "speed": "2.50",
+    "speedmin": "",
+    "speedmax": "2.71",
+    "cores": 4,
+    "physicalCores": 2,
+    "processors": 1,
+    "socket": "Other"
+}

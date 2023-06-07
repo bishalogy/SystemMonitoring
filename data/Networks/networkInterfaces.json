@@ -1,0 +1,32 @@
+[
+    {
+        "iface": "Wi-Fi",
+        "ifaceName": "Intel(R) Dual Band Wireless-AC 3165",
+        "ip4": "192.168.2.7",
+        "ip6": "fe80::8930:c5db:9b67:cc50",
+        "mac": "f8:63:3f:77:f0:92",
+        "internal": false,
+        "virtual": false,
+        "operstate": "up",
+        "type": "wireless",
+        "duplex": "",
+        "mtu": "",
+        "speed": 72.2,
+        "carrierChanges": 0
+    },
+    {
+        "iface": "Loopback Pseudo-Interface 1",
+        "ifaceName": "Loopback Pseudo-Interface 1",
+        "ip4": "127.0.0.1",
+        "ip6": "::1",
+        "mac": "00:00:00:00:00:00",
+        "internal": true,
+        "virtual": false,
+        "operstate": "down",
+        "type": "",
+        "duplex": "",
+        "mtu": "",
+        "speed": -1,
+        "carrierChanges": 0
+    }
+]

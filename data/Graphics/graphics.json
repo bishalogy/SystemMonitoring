@@ -1,0 +1,43 @@
+{
+    "controllers": [
+        {
+            "vendor": "NVIDIA",
+            "model": "NVIDIA GeForce 920MX",
+            "bus": "PCI",
+            "vram": 2048,
+            "vramDynamic": true
+        },
+        {
+            "vendor": "datronicsoft",
+            "model": "spacedesk Graphics Adapter",
+            "bus": "",
+            "vram": null,
+            "vramDynamic": true
+        },
+        {
+            "vendor": "Intel Corporation",
+            "model": "Intel(R) HD Graphics 620",
+            "bus": "PCI",
+            "vram": 1024,
+            "vramDynamic": true
+        }
+    ],
+    "displays": [
+        {
+            "vendor": "",
+            "model": "Default Monitor",
+            "main": true,
+            "builtin": true,
+            "connection": "INTERNAL",
+            "resolutionx": 1366,
+            "resolutiony": 768,
+            "sizex": 34,
+            "sizey": 19,
+            "pixeldepth": "32",
+            "currentResX": 1366,
+            "currentResY": 768,
+            "positionX": 0,
+            "positionY": 0
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "Name": "Intel(R) Display Audio",
+        "Manufacturer": "Intel(R) Corporation",
+        "Status OK PNP Device ID": "HDAUDIO/FUNC_01&VEN_8086&DEV_280B&SUBSYS_80860101&REV_1000/4&83968D6&0&0201",
+        "Driver": "C:/WINDOWS/SYSTEM32/DRIVERSTORE/INTCDAUD.SYS (10.26.0.1, 607.65 KB (622,232 bytes), 17-Sep-19 7:51 PM)",
+        "Name 1": "Realtek High Definition Audio",
+        "Manufacturer 1": "Realtek",
+        "Status OK PNP Device ID 1": "HDAUDIO/FUNC_01&VEN_10EC&DEV_0230&SUBSYS_17AA3804&REV_1000/4&83968D6&0&0001",
+        "Driver 1": "C:/WINDOWS/SYSTEM32/DRIVERS/RTKVHD64.SYS (6.0.1.8555, 6.11 MB (6,410,288 bytes), 17-Sep-19 8:57 PM)"
+    }
+]

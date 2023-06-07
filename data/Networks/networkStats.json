@@ -1,0 +1,15 @@
+[
+    {
+        "iface": "Wi-Fi",
+        "operstate": "up",
+        "rx_bytes": 2350642257,
+        "rx_dropped": 0,
+        "rx_errors": 0,
+        "tx_bytes": 1690263811,
+        "tx_dropped": 0,
+        "tx_errors": 0,
+        "rx_sec": -1,
+        "tx_sec": -1,
+        "ms": 0
+    }
+]
